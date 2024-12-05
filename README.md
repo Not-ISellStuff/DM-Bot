@@ -1,6 +1,8 @@
 # DM-Bot
 Sends a message to every person in your friends list
 
+**Note: To avoid being ratelimited or limited I made the request delay 2.5 seconds so it might take a while to dm all your friends**
+
 **Setup Guide**
 
 1. Make sure you have python
