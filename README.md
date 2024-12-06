@@ -1,4 +1,6 @@
 # DM-Bot
+ik this is skiddy but I needed one of these for something so I made it and decided to post it on github
+
 Sends a message to every person in your friends list
 
 **Note: To avoid being ratelimited or limited I made the request delay 2.5 seconds so it might take a while to dm all your friends**
